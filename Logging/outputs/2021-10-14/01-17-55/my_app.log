@@ -1,0 +1,9 @@
+[2021-10-14 01:17:56,007][__main__][INFO] - YAML config
+[2021-10-14 01:17:56,008][__main__][INFO] - dataset:
+  name: cifar10
+  path: /datasets/cifar10
+optimizer:
+  type: adam
+  lr: 0.1
+  beta: 0.01
+
