@@ -12,6 +12,14 @@ This repo contains a number of tutorials for [Hydra](https://hydra.cc/) usage.
 
 
 
+### Reading order:
+
+1. basic 
+2. composition_01
+3. composition_02
+4. Multirun 
+5. Logging 
+
 
 
 ***
